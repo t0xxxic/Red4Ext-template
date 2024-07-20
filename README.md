@@ -17,6 +17,6 @@ cd your_mod_name\Scripts
 Setup-Windows.bat
 ```
     
-## Reference & Original Author
+## Reference & SDK Author
 
  - [Red4Ext.SDK](https://github.com/WopsS/RED4ext.SDK)
